@@ -1,0 +1,17 @@
+BACKEND:
+ - API RESTFULL (HTTP e WEBSOCKET)
+ - SWAGGER para documentacção da API
+ - JAVA 11
+ - OAUTH2 (Autenticação)
+ - POSTGRESQL (Banco de Dados)
+
+FRONTEND SITEMA ADMINISTRATIVO:
+ - FIGMA (https://www.figma.com/file/f0oazm4dImI6K8Po2L9wuo/FFBike)
+ - REACT
+
+APP MOBILE:
+ - Android Studio 2021.2.1 PAtch 1
+ - Java
+
+
+
