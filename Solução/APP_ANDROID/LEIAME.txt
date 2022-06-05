@@ -1,0 +1,2 @@
+Suporte ao leitor de QRCODE do lado server esta disponível em 
+https://github.com/mebjas/html5-qrcode
